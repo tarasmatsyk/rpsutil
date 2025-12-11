@@ -170,7 +170,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rsutil"
+name = "rpsutil"
 version = "0.0.1"
 dependencies = [
  "once_cell",
